@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstSteps</string>
+    <string name="buttonBeschriftung">Say Hello!</string>
+</resources>
