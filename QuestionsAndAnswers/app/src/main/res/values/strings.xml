@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QuestionsAndAnswers</string>
+    <string-array name="questions">
+        <item>What is the capital of Afghanistan?</item>
+        <item>What is the capital of Andorra?</item>
+        <item>What is the capital of Angola?</item>
+        <item>What is the capital of Burkina Faso?</item>
+        <item>What is the capital of Burundi?</item>
+        <item>What is the capital of Chad?</item>
+        <item>What is the capital of El Salvador?</item>
+        <item>What is the capital of Georgia?</item>
+        <item>What is the capital of Honduras?</item>
+        <item>What is the capital of Israel?</item>
+        <item>What is the capital of Mali?</item>
+        <item>What is the capital of Middle-Saxony?</item>
+        <item>What is the capital of Uzbekistan?</item>
+        <item>What is the capital of Yemen?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Kabul</item>
+        <item>Andorra la Vella</item>
+        <item>Luanda</item>
+        <item>Ouagadougou</item>
+        <item>Gitega</item>
+        <item>NDjamena</item>
+        <item>San Salvador</item>
+        <item>Tbilisi</item>
+        <item>Tegucigalpa</item>
+        <item>Any answer would be too controversial</item>
+        <item>Bamako</item>
+        <item>Freemountain</item>
+        <item>Tashkent</item>
+        <item>Sanaa</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

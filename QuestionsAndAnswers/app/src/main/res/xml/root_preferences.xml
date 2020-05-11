@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:key="useCP"
+        app:defaultValue="false"
+        app:title="use content provider"
+        />
+
+</PreferenceScreen>
